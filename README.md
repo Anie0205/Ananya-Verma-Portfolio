@@ -3,6 +3,8 @@
 👋 Hi! I’m a CS student passionate about AI, backend systems, and building usable intelligent tools.  
 This repo is a curated list of my projects—click through to explore code, demos, and writeups!  
 
+[**Resume**](https://drive.google.com/file/d/1XHDfAcZsIPZay0iJ-akENWYwLckXyfIt/view?usp=drive_link)
+
 ## 🛠️ Featured Projects  
 
 ### [🔗 Text-to-CAD Generator](https://github.com/Anie0205/Text-to-CAD-using-Gemini)  
