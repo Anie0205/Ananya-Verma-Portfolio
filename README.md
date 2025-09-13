@@ -51,4 +51,4 @@ interacting with the system*
 - Model evaluation: BLEU, ROUGE, accuracy, perplexity   
 
 📫 **Reach out**: [Email](verma.ananya02@gmail.com) | [LinkedIn](www.linkedin.com/in/ananya-verma-6339b1251)  
-🌐 **Portfolio**: In progress — coming soon!
+🌐 **Portfolio**: [My Website](www.ananya-verma.com)
